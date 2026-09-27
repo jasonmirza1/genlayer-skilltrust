@@ -1,0 +1,9 @@
+{
+  "schema": "skilltrust.bundle.v1",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "f96dbd07be6383efa962d0b516111624b4de2806efe542028af3935c2b349da6"
+    }
+  ]
+}
